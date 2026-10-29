@@ -1,0 +1,22 @@
+{
+  "wheel_id": 497,
+  "structure": "umbrella",
+  "slug": "newcastlehomeloanbroker-151",
+  "project": "home-loan-broker-newcastle-cf7af87c5eed3e86dd9c85c7e833918e7",
+  "parent_t1_ref": "newcastlehomeloanbroker-010",
+  "node_role": "buffer",
+  "money_target": "newcastlehomeloanbroker.com.au",
+  "primary_kw": "home loan broker newcastle",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-broker-newcastle-cf7af87c5eed3e86dd9c85c7e833918e7/",
+  "tier": "T2",
+  "writeback_nonce": "536f87acadab64ba",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/home-loan-broker-newcastle-010/",
+      "anchor": "Home Loan Broker Newcastle: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
